@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\POLMAN\\InputOutput\\InputOutput\\InputOutput.csproj",
+      "projectUniqueName": "E:\\POLMAN\\gitPolman2\\teknikal\\InputOutput\\InputOutput.csproj",
       "projectName": "InputOutput",
-      "projectPath": "E:\\POLMAN\\InputOutput\\InputOutput\\InputOutput.csproj",
+      "projectPath": "E:\\POLMAN\\gitPolman2\\teknikal\\InputOutput\\InputOutput.csproj",
       "packagesPath": "C:\\Users\\IsmiAP\\.nuget\\packages\\",
-      "outputPath": "E:\\POLMAN\\InputOutput\\InputOutput\\obj\\",
+      "outputPath": "E:\\POLMAN\\gitPolman2\\teknikal\\InputOutput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IsmiAP\\AppData\\Roaming\\NuGet\\NuGet.Config",
