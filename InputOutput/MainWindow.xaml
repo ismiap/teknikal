@@ -58,7 +58,7 @@
             Height="23" 
             Margin="286,175,0,0" 
             VerticalAlignment="Top"
-            Width="47" 
+            Width="50" 
             Click="InputButton_Click"/>
     </Grid>
 </Window>
